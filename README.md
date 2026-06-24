@@ -198,17 +198,13 @@ Revenue alone is not enough — true business value lies in risk-adjusted profit
 
 V.peddirajulu 
 
-Data Analyst Project 
+Banking Profitability Customer Analytics Project 
 
 Focus: Risk Analytics | Business Intelligence | Financial Modeling 
 
 ## ⭐ How This Stands Out 
-
   
-
 This project highlights: 
-
-  
 
 * Strong business understanding 
 
