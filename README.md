@@ -24,7 +24,6 @@ Which customers generate sustainable profit?
 
 Are high-revenue customers also high-risk?
 
-
 How concentrated is revenue among top customers? 
 
 What is the true net profitability after adjusting for risk? 
@@ -112,8 +111,6 @@ Top 20% customers contributing majority revenue
 
 ### 📊 1. Executive Overview 
 
-  
-
 * Total Revenue 
 
 * Net Profit 
@@ -121,7 +118,7 @@ Top 20% customers contributing majority revenue
 * Default Impact 
 
 * Risk-adjusted performance
-* 
+  
 * High vs Low value customers 
 
 * Risk distribution 
